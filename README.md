@@ -1,7 +1,7 @@
 ----------------
 Author: Yang Lyu
 ----------------
-This repository contains simulations of interesting problems using Python. Necessary packages when running the .ipynb files are numpy, scipy and matplotlib. If you have problem viewing the files, please refer to the html files. 
+This repository contains simulations of interesting problems using Python. Necessary packages when running the .ipynb files are numpy, scipy and matplotlib. If you have problem viewing the files, please refer to the corresponding pdf files. 
 
 These files include: 
 * 1-D cellular automata using rules under the convention of Stephen Wolfram
