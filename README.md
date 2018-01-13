@@ -1,7 +1,7 @@
 ----------------
 Author: Yang Lyu
 ----------------
-This repository contains simulations of interesting problems using Python. Necessary packages when running the .ipynb files are numpy, scipy and matplotlib.
+This repository contains simulations of interesting problems using Python. Necessary packages when running the .ipynb files are numpy, scipy and matplotlib. You can disable "importing seaborn" in the header. 
 
 These files include: 
 * 1-D cellular automata using rules under the convention of Stephen Wolfram
